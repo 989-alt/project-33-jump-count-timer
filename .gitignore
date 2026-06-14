@@ -1,0 +1,10 @@
+.env
+.env.*
+node_modules/
+dist/
+__pycache__/
+.DS_Store
+*.log
+.vscode/
+.idea/
+tests/exported.json
